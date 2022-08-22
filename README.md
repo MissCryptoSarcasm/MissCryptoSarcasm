@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissCryptoSarcasm
 - 👀 I’m interested in being happy.
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m a Full Stack Developer
 
 
 <!---
